@@ -24,3 +24,12 @@ I would love to receive constructive feedback, whether it is a shortcut for a sp
 Daily votes for the five most voted birds in the kiwi competition *New Zealand Bird of the Year* 2019.
 
 ![NZBOTY-plot](https://github.com/d-scanzi/TidyTuesday/blob/main/images/birdsoftheyear.gif)
+
+---
+
+# Transit Cost Project
+Countries that spend the most and the least to build their rail lines. Median cost per km and median km built are considered.
+* Green = Low costs/High kilometrage built
+* Red = High cost/Low kilometrage built
+
+![transit_cost_project](https://github.com/d-scanzi/TidyTuesday/blob/main/images/transit_cost_project.jpeg)
